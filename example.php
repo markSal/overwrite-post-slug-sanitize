@@ -28,7 +28,7 @@ $post_id = wp_insert_post(array(
 
 		</small></p>
 	',
-	'post_name'	=>	$post_slug,
+	'post_name'	=> $post_slug,
 	'post_status'   => 'publish',
 	'post_author'   => 1,
 ));
